@@ -12,5 +12,5 @@
 
 run_app <- function(options = list()) {
   app_directory <- system.file("testapp", package = "shinyboxtestapp")
-  shinyAppDir(app_directory, options = options)
+  shiny::shinyAppDir(app_directory, options = options)
 }
