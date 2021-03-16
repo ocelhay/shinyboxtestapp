@@ -13,5 +13,6 @@ Depends:
     R (>= 3.6)
 Imports: 
     ggplot2
+    shiny
 URL: https://github.com/ocelhay/shinybox-testapp
 RoxygenNote: 7.1.1

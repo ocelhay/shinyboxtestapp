@@ -7,7 +7,7 @@
 #' 
 #' @export
 #'
-#' @import ggplot2
+#' @import ggplot2 shiny
 #' 
 
 run_app <- function(options = list()) {
